@@ -1,0 +1,33 @@
+{
+  "name": "courseproject",
+  "version": "1.0.0",
+  "description": "Ilya Efimenko final project",
+  "main": "index.js",
+  "dependencies": {
+    "css-loader": "^3.6.0",
+    "sha256": "^0.2.0",
+    "style-loader": "^1.2.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "scripts": {
+    "webpack": "webpack -w",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilya-efimenko/projectJS.git"
+  },
+  "author": "Ilya Efimenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilya-efimenko/projectJS/issues"
+  },
+  "homepage": "https://github.com/ilya-efimenko/projectJS#readme",
+  "keywords": [
+    "courseProject"
+  ]
+}
